@@ -1,0 +1,51 @@
+C:\Users\bartek\xl\ONE034\ClassLibrary1\obj\Debug\ONE34 in-SQL.csprojAssemblyReference.cache
+C:\Users\bartek\xl\ONE034\ClassLibrary1\obj\Debug\ONE34 in-SQL.csproj.CoreCompileInputs.cache
+C:\Users\bartek\xl\ONE034\ClassLibrary1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\bartek\xl\ONE034\ClassLibrary1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\bartek\xl\ONE034\ClassLibrary1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\bartek\xl\ONE034\ClassLibrary1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\bartek\xl\ONE034\ClassLibrary1\bin\Debug\adodb.dll
+C:\Users\bartek\xl\ONE034\ClassLibrary1\obj\Debug\ONE34 in-SQL.csproj.CopyComplete
+C:\Users\bartek\xl\ONE034\ClassLibrary1\obj\Debug\one034.ONE034Form.resources
+C:\Users\bartek\xl\ONE034\ClassLibrary1\obj\Debug\ONE34 in-SQL.csproj.GenerateResource.cache
+C:\Users\bartek\xl\ONE034\ClassLibrary1\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\bartek\xl\ONE034\ClassLibrary1\bin\Debug\ExcelDataReader.dll
+C:\Users\bartek\xl\ONE034\ClassLibrary1\bin\Debug\ExcelDataReader.pdb
+C:\Users\bartek\xl\ONE034\ClassLibrary1\bin\Debug\ExcelDataReader.xml
+C:\Users\bartek\xl\ONE034\ClassLibrary1\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\bartek\xl\ONE034\ClassLibrary1\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\bartek\xl\ONE034\ClassLibrary1\bin\Debug\ONE034 - in - SQL.dll.config
+C:\Users\bartek\xl\ONE034\ClassLibrary1\bin\Debug\ONE034 - in - SQL.dll
+C:\Users\bartek\xl\ONE034\ClassLibrary1\bin\Debug\ONE034 - in - SQL.pdb
+C:\Users\bartek\xl\ONE034\ClassLibrary1\obj\Debug\ONE034 - in - SQL.dll
+C:\Users\bartek\xl\ONE034\ClassLibrary1\obj\Debug\ONE034 - in - SQL.pdb
+C:\Users\bartek\xl\ONE034\ClassLibrary1\bin\Debug\EPPlus.dll
+C:\Users\bartek\xl\ONE034\ClassLibrary1\bin\Debug\EPPlus.xml
+C:\Users\bartek\xl\ONE034\ClassLibrary1\bin\Debug\cdn_api20202.net.dll
+C:\Users\magdaw\Documents\Domar\ONE034\ClassLibrary1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\magdaw\Documents\Domar\ONE034\ClassLibrary1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\magdaw\Documents\Domar\ONE034\ClassLibrary1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\magdaw\Documents\Domar\ONE034\ClassLibrary1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\magdaw\Documents\Domar\ONE034\ClassLibrary1\bin\Debug\ONE034 - in - SQL.dll.config
+C:\Users\magdaw\Documents\Domar\ONE034\ClassLibrary1\bin\Debug\ONE034 - in - SQL.dll
+C:\Users\magdaw\Documents\Domar\ONE034\ClassLibrary1\bin\Debug\ONE034 - in - SQL.pdb
+C:\Users\magdaw\Documents\Domar\ONE034\ClassLibrary1\bin\Debug\adodb.dll
+C:\Users\magdaw\Documents\Domar\ONE034\ClassLibrary1\bin\Debug\EPPlus.dll
+C:\Users\magdaw\Documents\Domar\ONE034\ClassLibrary1\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\magdaw\Documents\Domar\ONE034\ClassLibrary1\bin\Debug\ExcelDataReader.dll
+C:\Users\magdaw\Documents\Domar\ONE034\ClassLibrary1\bin\Debug\EPPlus.xml
+C:\Users\magdaw\Documents\Domar\ONE034\ClassLibrary1\bin\Debug\ExcelDataReader.pdb
+C:\Users\magdaw\Documents\Domar\ONE034\ClassLibrary1\bin\Debug\ExcelDataReader.xml
+C:\Users\magdaw\Documents\Domar\ONE034\ClassLibrary1\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\magdaw\Documents\Domar\ONE034\ClassLibrary1\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\magdaw\Documents\Domar\ONE034\ClassLibrary1\obj\Debug\one034.ONE034Form.resources
+C:\Users\magdaw\Documents\Domar\ONE034\ClassLibrary1\obj\Debug\ONE34 in-SQL.csproj.GenerateResource.cache
+C:\Users\magdaw\Documents\Domar\ONE034\ClassLibrary1\obj\Debug\ONE34 in-SQL.csproj.CoreCompileInputs.cache
+C:\Users\magdaw\Documents\Domar\ONE034\ClassLibrary1\obj\Debug\ONE34 in-SQL.csproj.CopyComplete
+C:\Users\magdaw\Documents\Domar\ONE034\ClassLibrary1\obj\Debug\ONE034 - in - SQL.dll
+C:\Users\magdaw\Documents\Domar\ONE034\ClassLibrary1\obj\Debug\ONE034 - in - SQL.pdb
+C:\Users\magdaw\Documents\Domar\ONE034\ClassLibrary1\obj\Debug\one034.FormWybor.resources
+C:\Users\magdaw\Documents\Domar\ONE034\ClassLibrary1\bin\Debug\AWSSDK.Core.dll
+C:\Users\magdaw\Documents\Domar\ONE034\ClassLibrary1\bin\Debug\AWSSDK.Core.pdb
+C:\Users\magdaw\Documents\Domar\ONE034\ClassLibrary1\bin\Debug\AWSSDK.Core.xml
+C:\Users\magdaw\Documents\Domar\ONE034\ClassLibrary1\obj\Debug\ONE34 in-SQL.csproj.AssemblyReference.cache
